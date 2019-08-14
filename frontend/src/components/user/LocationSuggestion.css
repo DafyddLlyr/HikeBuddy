@@ -1,0 +1,19 @@
+.suggestion-box {
+  height: 20vh;
+  width: 28vw;
+  background-color: white;
+  margin: 1vw;
+  display: flex;
+  border-radius: 8px;
+  margin-left: center;
+
+}
+h5 {
+  font-weight: bold;
+  margin-bottom: 0.5vh;
+}
+
+.text {
+  width: 18vw;
+  padding: 1vw;
+}

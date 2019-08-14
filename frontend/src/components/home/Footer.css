@@ -1,0 +1,16 @@
+.footer {
+  position: absolute;
+  bottom: zero;
+  background-color: darkgrey;
+  width: 100vw;
+  height: 20vh;
+  text-align: center;
+}
+
+.footer-h1 {
+  font-size: 15px;
+}
+
+.footer-p {
+  font-size: 15px;
+}

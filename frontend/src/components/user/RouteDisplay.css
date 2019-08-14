@@ -1,0 +1,8 @@
+#route-display {
+  margin: 1vw 0;
+  background-color: blue;
+  color: white;
+  height: 10vh;
+  max-height: 50vh;
+  border-radius: 8px;
+}

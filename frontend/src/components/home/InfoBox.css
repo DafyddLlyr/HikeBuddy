@@ -1,0 +1,28 @@
+#infobox {
+  background-color: lightgrey;
+  width: 30vw;
+  height: 50vh;
+  margin: 2vh;
+  padding: 2vh;
+  border-radius: 8px;
+  text-align: center;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+.info-box-h1 {
+  font-size: 1.6em;
+  color: black;
+  padding: 6px;
+}
+
+.info-box-p {
+  font-size: 0.7em;
+  color: black;
+  padding: 4px;
+}
+
+img{
+  border-radius: 10px;
+}

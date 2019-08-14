@@ -1,0 +1,32 @@
+#location-popup {
+  font-family: 'Avenir';
+  width: auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  text-align: center;
+}
+
+#location-popup h1 {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+#popup-image {
+  width: 15vw;
+}
+
+#location-popup button {
+  background-color: limegreen;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  margin: 0.5vw;
+  padding: 0.5vw;
+}
+
+#location-popup button:hover {
+  background-color: lightgreen;
+}

@@ -1,0 +1,103 @@
+#home-page {
+  background-image: url('/images/background.jpg');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height:100vh;
+  font-size: 7em;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+
+
+}
+
+@font-face {
+    font-family: 'oswald';
+    src: url('/font/Beauty.ttf');
+}
+
+.info-boxes{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img{
+  height: 30vh;
+}
+
+.hero-text{
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+
+
+}
+
+.title{
+    font-size: 1em;
+    margin-bottom: 1.5em;
+    font-weight: 10em;
+    margin-top: 1em;
+    padding: 0;
+    margin: 0;
+    color: green;
+    font-family: oswald;
+    text-shadow: 2px 2px white;
+
+
+
+}
+
+.blurb{
+  font-size: 1.2rem;
+    font-weight: 900;
+    margin-top: 1em;
+    color: black;
+
+}
+
+
+ .button{
+   background-color: #e7e7e7;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 0.2em 2em;
+}
+
+.button:hover{
+  background-color: lightgrey;
+}
+
+.button-admin{
+  background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+ border: none;
+ color: Transparent;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ border-radius: 10px;
+ padding: 0.2em 2em;
+}
+
+.button-admin:hover{
+  background-color: lightgrey;
+  color: black;
+}

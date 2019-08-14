@@ -1,0 +1,41 @@
+.LargeTextBox {
+  background-color: lightgrey;
+  width: 98vw;
+  height: auto;
+  margin: 2vh;
+  border-radius: 8px;
+  text-align: center;
+  display: flex;
+justify-content: space-between;
+font-family: 'Avenir', Helvetica, Arial, sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+
+.image{
+border-radius: 10px 0px 0px 10px;
+width: 35vw;
+height: 100%;
+}
+
+.paragraph{
+  font-size: 0.8em;
+  color: black;
+  padding: 10px;
+}
+
+.LTB-title{
+  font-size: 2em;
+  color: black;
+  padding-top: 10px;
+}
+
+.pic2{
+  height: 130px;
+  padding: 20px;
+}
+
+.text-side{
+padding-top: 20px;
+}
