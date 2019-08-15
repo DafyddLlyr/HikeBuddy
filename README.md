@@ -2,7 +2,7 @@
 
 ## Plan your hike on the Scottish National Trail - create routes, track your progress and explore points of interest along the trail.
 
-*Full-stack app with a RESTful API build with Java, Spring & Hibernate and a React/JavaScript fronted. Leaflet map interacts with GeoJSON data and a PostgreSQL database.*
+*Full-stack app with a RESTful API build with Java, Spring & Hibernate and a React/JavaScript frontend. Leaflet map interacts with GeoJSON data and a PostgreSQL database.*
 
 *Group project for @CodeClan, built with @craiggough376, @Arledis and @StewartMacLeman*
 
