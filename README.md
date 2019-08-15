@@ -39,3 +39,12 @@
 
 ### Admin creating location
 ![Add Location](screenshots/add_location.png)
+
+
+### Original group repositories with full git history
+
+**Backend**
+https://github.com/StewartMacLeman/project-backend
+
+**Frontend**
+https://github.com/Arledis/HikingApp
