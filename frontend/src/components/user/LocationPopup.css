@@ -14,8 +14,10 @@
   font-weight: bold;
 }
 
-#popup-image {
-  width: 15vw;
+.popup-image {
+  width: 20vw;
+  height: auto;
+  padding: 1vh;
 }
 
 #location-popup button {

@@ -22,7 +22,7 @@ const Routes = ({routes, deleteRoute, updateRouteCompletion}) => {
 
   const getRoutes = routes.map((route, index) => {
     return (
-      <tr key={index}>
+      <tr key={index} className="sidebar-table-body">
         <td>{ route.name }</td>
         <td>{ route.length.toFixed(2) }km</td>
         <td>{ createCheckbox(route) }</td>

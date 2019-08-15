@@ -30,7 +30,7 @@ const LocationPopup = ({location, saveFavourite, user}) => {
   return(
     <Popup>
     <div id='location-popup'>
-      <img src={location.pictureURL} className="popup-image"/>
+      <img src={location.pictureURL} className="popup-image" alt={location.name}/>
 
       <h1>{location.name}</h1>
       <StarRating rating={location.rating}/>

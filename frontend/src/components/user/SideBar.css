@@ -53,6 +53,11 @@
   color: white;
 }
 
+.sidebar-table-body td {
+  height: 2vh;
+  padding: 1vh 0;
+}
+
 .sidebar-table button {
   background-color: #ff0000;
   border: none;

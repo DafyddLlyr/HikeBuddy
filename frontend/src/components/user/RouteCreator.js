@@ -1,7 +1,6 @@
 import React, {Component} from 'react'
 import './RouteCreator.css'
 import './SideBar.css'
-import RouteDisplay from './RouteDisplay'
 import turfLength from '@turf/length'
 
 

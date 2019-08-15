@@ -54,7 +54,7 @@ const Favourites = ({ favourites, removeUserFavourites }) => {
   })
 
   return (
-    <table className="sidebar-table">
+    <table className="sidebar-table sidebar-table-body">
     <tbody>
       <tr>
         <th>Name</th>
